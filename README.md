@@ -1,6 +1,8 @@
 # Identification de villes candidates pour l’implantation d’une salle de sport
 Projet personnel
 
+GitHub ne permettant pas d'afficher les éléments interactifs, il est conseillée de visionner le notebook a l'adresse suivante : https://nbviewer.org/github/vincent71219291/candidate_cities_gym/blob/main/candidate_cities.ipynb
+
 ## Contexte
 L'objectif de ce projet est d'identifier des villes candidates pour l'implantation d'une salle de Crossfit (aussi appelée <b>"box"</b> ou <b>"affiliée"</b> dans le jargon).
 Les paramètres pris en compte sont la taille de la ville et le nombre de salles déjà implantées dans les environs.
